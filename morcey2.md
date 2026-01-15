@@ -7,3 +7,9 @@
 - Fact 2: The programming language used is assembler according to the repository.
 - Fact 3: Code reuse was accomplished by physically inserting the punch cards to be reused in a the proper location in a different stack of punch cards. 
 
+## nocode Repository Facts
+- Fact 1: The nocode repository uses the Apache 2.0 license. 
+- Fact 2: Files contributed to the nocode repository cannot contain code and must end in the '.no' extension.
+- Fact 3: nocode uses the perfect security mechanism.... Not having any code to compromise. 
+
+
