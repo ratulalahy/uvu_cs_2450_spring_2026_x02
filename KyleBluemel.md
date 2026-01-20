@@ -14,3 +14,11 @@
 
 \- Fact 3:All of the code is assembly
 
+\## nocode Repository Facts
+
+\- Fact 1:There is no code in this repository(Shocker)
+
+\- Fact 2:It was made in 2018 and only had one commit in 2020
+
+\- Fact 3: It only has the one contributor
+
